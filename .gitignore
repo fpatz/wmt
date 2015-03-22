@@ -1,5 +1,12 @@
 cache/
 output/
+lib/
+bin/
+share/
+include/
+pip-selfcheck.json
 .doit.db
+.doit.db.db
+.Python
 *.pyc
 *~
