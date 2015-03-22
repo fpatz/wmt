@@ -1,0 +1,39 @@
+## -*- coding: utf-8 -*-
+<%inherit file="base.tmpl"/>
+<%namespace name="comments" file="comments_helper.tmpl"/>
+<%namespace name="ui" file="crumbs.tmpl" import="bar"/>
+<%block name="sourcelink"></%block>
+
+<%block name="content">
+    %if title:
+    <h1>${title|h}</h1>
+    %endif
+    %if post:
+    <p>
+        ${post.text()}
+    </p>
+    %endif
+    %if folders:
+    <ul>
+    % for folder, ftitle in folders:
+        <li><a href="${folder}"><i class="glyphicon glyphicon-folder-open"></i>&nbsp;${ftitle}</a></li>
+    % endfor
+    </ul>
+    %endif
+
+<div id="gallery_container"></div>
+%if photo_array:
+<div class="container">
+<div class="row">
+    %for image in photo_array:
+    <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+        <a href="${image['url']}" class="thumb image-reference" title="${image['title']}">
+        <img class="img-thumbnail" src="${image['url_thumb']}" alt="${image['title']}" /></a>
+<!--	<p class="small"><b>Ohne Titel</b><br/>
+	Acryl, 2013</p> -->
+    </div>
+    %endfor
+</div>
+</div>
+%endif
+</%block>

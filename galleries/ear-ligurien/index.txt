@@ -1,0 +1,19 @@
+.. title: Europa am Rande | Ligurien
+.. slug: ear-ligurien
+.. date: 2015-03-08 18:13:55 UTC+01:00
+.. tags: 
+.. category: Europa am Rande
+.. link: 
+.. description: Von *Menton* (Frankreich) bis *Genua*.
+.. type: text
+
+**September/Oktober 2006**
+
+.. raw:: html
+
+  <nav>
+  <ul class="pager">
+    <li class="previous small"><a href="/galleries/ear-andalusien/"><span aria-hidden="true">&larr;</span> Zurück</a></li>
+    <li class="next small"><a href="/galleries/ear-genua-laspezia/">Weiter <span aria-hidden="true">&rarr;</span></a></li>
+  </ul>
+  </nav>

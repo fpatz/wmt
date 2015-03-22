@@ -1,0 +1,19 @@
+.. title: Europa am Rande | Genua bis Pisa
+.. slug: ear-genua-laspezia
+.. date: 2015-03-08 18:13:55 UTC+01:00
+.. tags: 
+.. category: Europa am Rande
+.. link: 
+.. description: Von *Genua* bis *Pisa*
+.. type: text
+
+**Oktober 2006**
+
+.. raw:: html
+
+  <nav>
+  <ul class="pager">
+    <li class="previous small"><a href="/galleries/ear-ligurien/"><span aria-hidden="true">&larr;</span> Zurück</a></li>
+    <li class="next small"><a href="/galleries/ear-cotedazur/">Weiter <span aria-hidden="true">&rarr;</span></a></li>
+  </ul>
+  </nav>

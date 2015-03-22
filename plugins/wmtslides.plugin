@@ -1,0 +1,10 @@
+[Core]
+Name = wmtslides
+Module = wmtslides
+
+[Documentation]
+Author = Frank Patz-Brockmann
+Version = 0.1
+Website = http://getnikola.com
+Description = Slides with captions
+
