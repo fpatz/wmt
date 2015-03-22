@@ -9,12 +9,6 @@
 
 .. wmtslides::
 
-   /galleries/grosse-objekte/Aluschnitt.jpg
-   /galleries/grosse-objekte/
-   
-   <h3>Objekte</h3>
-
-   ---
 
    kopf-index.jpg
    /galleries/koepfe/
@@ -27,6 +21,13 @@
    /galleries/wandobjekte/
    
    <h3>Wandobjekte</h3>
+
+   ---
+
+   /galleries/grosse-objekte/Aluschnitt.jpg
+   /galleries/grosse-objekte/
+   
+   <h3>Objekte</h3>
 
    ---
 
