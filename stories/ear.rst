@@ -78,7 +78,8 @@
 	 <h3>Europa am Rande</h3>
 
 In dem Langzeit-Projekt *Europa am Rande* beschreibe ich malerisch den
-Rand – sprich die Grenzen des `geografischen Europas (Karte) <ear-map.html>`_.
+Rand – sprich die Grenzen des `geografischen Europas (interaktive
+Karte) <ear-map.html>`_.
 In Skizzen, farbig angelegt, finden sich typische, spannende oder
 augenfällige Szenen der Region.
 
