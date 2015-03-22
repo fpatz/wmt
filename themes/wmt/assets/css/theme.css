@@ -204,9 +204,9 @@ footer {
     font-weight: 300;
 }
 
-.carousel {
-    max-width: 800px;
-}
+#.carousel {
+#    max-width: 800px;
+#}
 
 .maria {
     color: #e100e5;
@@ -218,4 +218,11 @@ footer {
 
 #cboxTitle {
     font-family: sans-serif;
+}
+
+/* set a max-width for horizontal fluid layout and make it centered */
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 940px; /* or 950px */
 }
