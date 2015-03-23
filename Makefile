@@ -1,10 +1,14 @@
 NIKOLA=./bin/nikola
 
-.PHONY: bootstrap build serve clean
+.PHONY: bootstrap build serve clean production
 
 build:
 	./bin/python process-map.py europe/europe-map.svg files/europe-map.svg
 	$(NIKOLA) build
+
+production:
+	./bin/python process-map.py europe/europe-map.svg files/europe-map.svg
+	$(NIKOLA) build --conf=production.py
 
 serve:
 	$(NIKOLA) serve

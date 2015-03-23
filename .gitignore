@@ -4,6 +4,7 @@ lib/
 bin/
 share/
 include/
+oldsite/
 pip-selfcheck.json
 .doit.db
 .doit.db.db
