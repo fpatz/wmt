@@ -13,7 +13,7 @@
 
   <nav>
   <ul class="pager">
-    <li class="previous small"><a href="/galleries/ear-andalusien/"><span aria-hidden="true">&larr;</span> Zurück</a></li>
+    <li class="previous small"><a href="/galleries/ear-aegaeis/"><span aria-hidden="true">&larr;</span> Zurück</a></li>
     <li class="next small"><a href="/galleries/ear-genua-laspezia/">Weiter <span aria-hidden="true">&rarr;</span></a></li>
   </ul>
   </nav>

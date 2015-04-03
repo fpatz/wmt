@@ -24,7 +24,7 @@ BLOG_TITLE = 'Wilhelm <span class="maria">Maria</span> Thein'  # (translatable)
 SITE_URL = "http://lisp.local:8000/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "http://w-m-thein.de/"
+BASE_URL = "http://w-m-thein.de/"
 BLOG_EMAIL = "info@w-m-thein.de"
 BLOG_DESCRIPTION = "Wilhelm Maria Thein, K\u00fcnstler|Bildhauer"  # (translatable)
 
@@ -483,7 +483,7 @@ USE_FILENAME_AS_TITLE = False
 # EXTRA_IMAGE_EXTENSIONS = []
 #
 # If set to False, it will sort by filename instead. Defaults to True
-# GALLERY_SORT_BY_DATE = True
+GALLERY_SORT_BY_DATE = False
 #
 # Folders containing images to be used in normal posts or
 # pages. Images will be scaled down according to IMAGE_THUMBNAIL_SIZE
