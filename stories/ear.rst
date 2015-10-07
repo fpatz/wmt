@@ -72,6 +72,13 @@
    <h3>Andalusien</h3>
 
    ---
+   
+   /galleries/ear-aegaeis/aegaeis-04.jpg
+   /galleries/ear-aegaeis/
+
+   <h3>Ägäis</h3>
+
+   ---
 
 .. raw:: html
 
