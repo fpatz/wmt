@@ -93,6 +93,13 @@
    <h3>Ägäis</h3>
 
    ---
+   
+   /galleries/ear-barcelona/ear-barcelona01.jpg
+   /galleries/ear-barcelona/
+
+   <h3>Katalonien</h3>
+
+   ---
 
 .. raw:: html
 
