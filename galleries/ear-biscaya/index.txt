@@ -1,0 +1,20 @@
+.. title: Europa am Rande | Biscaya
+.. slug: ear-biscaya
+.. date: 2015-03-08 18:13:55 UTC+01:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+**September 2010**
+
+.. raw:: html
+
+  <nav>
+  <ul class="pager">
+    <li class="previous small"><a href="/galleries/ear-triest-kroatien/"><span aria-hidden="true">&larr;</span> Zurück</a></li>
+    <li class="next small"><a href="/galleries/ear-belgien/">Weiter <span aria-hidden="true">&rarr;</span></a></li>
+  </ul>
+  </nav>
+

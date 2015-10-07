@@ -59,6 +59,13 @@
    
    ---
 
+   /galleries/ear-biscaya/ear-biscaya01.jpg
+   /galleries/ear-biscaya/
+   
+   <h3>Biscaya</h3>
+   
+   ---
+
    /galleries/ear-belgien/wmt-europa135.jpg
    /galleries/ear-belgien/
    
