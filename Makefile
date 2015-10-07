@@ -1,6 +1,6 @@
 NIKOLA=./bin/nikola
 
-.PHONY: bootstrap build serve clean production
+.PHONY: bootstrap build serve clean production upload
 
 build:
 	./bin/python process-map.py europe/europe-map.svg files/europe-map.svg
@@ -19,3 +19,6 @@ bootstrap:
 
 clean:
 	rm -rf cache output .doit.db
+
+upload: production
+	lftp -f upload.ftp

@@ -1,0 +1,3 @@
+open sftp://p7762222:hbst309@w-m-thein.de/
+mirror -v -R -x \#.* -x .DS_Store -x ^\.git.* -x .*~ ./output /
+exit

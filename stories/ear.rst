@@ -80,6 +80,13 @@
 
    ---
    
+   /galleries/ear-cadiz-lissabon/ear-cadiz-lissabon01.jpg
+   /galleries/ear-cadiz-lissabon/
+
+   <h3>Cadiz bis Lissabon</h3>
+
+   ---
+   
    /galleries/ear-aegaeis/aegaeis-04.jpg
    /galleries/ear-aegaeis/
 
