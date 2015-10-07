@@ -1,0 +1,12 @@
+* Europakarte bearbeiten
+  - Original in Illustrator öffnen
+  - Pfadsegment mit "Slice"-Werkzeug freischneiden
+  - Blau einfärben (wie die anderen)
+  - Palette "SVG-Interaktivität", onclick=<link>
+  - Als SVG speichern
+
+* Originale von Xenia bearbeiten
+  - Helligkeit +60
+  - Perspektivkorrektur (C)
+  - Bildgröße 1280 Breite
+  - Für Web exportieren
