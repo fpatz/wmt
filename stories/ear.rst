@@ -72,6 +72,13 @@
    <h3>Belgien</h3>
 
    ---
+
+   /galleries/ear-galizien/ear-galizien01.jpg
+   /galleries/ear-galizien/
+   
+   <h3>Galizien</h3>
+
+   ---
    
    /galleries/ear-andalusien/wmt-europa26.jpg
    /galleries/ear-andalusien/
