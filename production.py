@@ -478,7 +478,7 @@ REDIRECTIONS = []
 # GALLERY_FOLDERS = {"galleries": "galleries"}
 # More gallery options:
 # THUMBNAIL_SIZE = 180
-# MAX_IMAGE_SIZE = 1280
+MAX_IMAGE_SIZE = 1024
 USE_FILENAME_AS_TITLE = False
 # EXTRA_IMAGE_EXTENSIONS = []
 #

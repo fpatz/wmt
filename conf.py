@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Wilhelm Maria Thein"  # (translatable)
 BLOG_TITLE = 'Wilhelm <span class="maria">Maria</span> Thein'  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://lisp.local:8000/"
+SITE_URL = "http://scheme.local:8000/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 BASE_URL = "http://w-m-thein.de/"
@@ -478,7 +478,7 @@ REDIRECTIONS = []
 # GALLERY_FOLDERS = {"galleries": "galleries"}
 # More gallery options:
 # THUMBNAIL_SIZE = 180
-# MAX_IMAGE_SIZE = 1280
+MAX_IMAGE_SIZE = 1024
 USE_FILENAME_AS_TITLE = False
 # EXTRA_IMAGE_EXTENSIONS = []
 #

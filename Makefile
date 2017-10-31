@@ -1,4 +1,5 @@
 NIKOLA=./bin/nikola
+GETPASS=~/Projects/keyring/bin/getpass
 
 .PHONY: bootstrap build serve clean production upload
 
@@ -21,4 +22,4 @@ clean:
 	rm -rf cache output .doit.db
 
 upload: production
-	lftp -f upload.ftp
+	LFTP_PASSWORD=`$(GETPASS) ftp w-m-thein.de` lftp -f upload.ftp
