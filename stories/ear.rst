@@ -108,6 +108,27 @@
 
    ---
 
+   /galleries/ear-teneriffa/ear-teneriffa01.jpg
+   /galleries/ear-teneriffa/
+
+   <h3>Teneriffa</h3>
+
+   ---
+
+   /galleries/ear-gargano/ear-gargano01.jpg
+   /galleries/ear-gargano/
+
+   <h3>Gargano/Puglia</h3>
+
+   ---
+
+   /galleries/ear-kalabrien/ear-kalabrien01.jpg
+   /galleries/ear-kalabrien/
+
+   <h3>Kalabrien</h3>
+
+   ---
+
 .. raw:: html
 
 	 <h3>Europa am Rande</h3>
